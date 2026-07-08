@@ -17,6 +17,7 @@ I enjoy building practical cyber project that demostrate real world skills
 | ------- | ----------- | ---------- |
 | OSIINT Investigation | Conducted an OSIINT investigation | coming soon |
 | Log Analysis | Analysed IIS and windows Event Logs to identify attacks | coming soon |
+| Malware Analysis | Completed a Malware Analysis Project | coming soon |
 
 ## Skills
 ### Operating System
