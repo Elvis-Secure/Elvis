@@ -7,7 +7,7 @@ I enjoy building practical cyber project that demostrate real world skills
 - Log Analysis
 - Malware Analysis
 - Digital Forensics
-- OSIINT
+- OSINT
 - Threat Hunting
 - Social Engineering
 - Governance Risk And Compliance
@@ -15,7 +15,7 @@ I enjoy building practical cyber project that demostrate real world skills
  ## Projects
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| OSIINT Investigation | Conducted an OSIINT investigation | coming soon |
+| OSINT Investigation | Conducted an OSINT investigation | coming soon |
 | Log Analysis | Analysed IIS and windows Event Logs to identify attacks | coming soon |
 | Malware Analysis | Completed a Malware Analysis Project | coming soon |
 
@@ -52,5 +52,5 @@ I enjoy building practical cyber project that demostrate real world skills
 
         ## Contact
         - Email: ejioforelvis24@gmail.com
-        - Linkldeln
+        - Linkedin
   - 
